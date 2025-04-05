@@ -4,8 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Evermos as Product Support Specialist
-- 🌱 I’m currently learning Data Science at [Dicoding](https://www.dicoding.com/)
+- 🔭 I’m currently working as Product Support Specialist
 - 📫 How to reach me: ionn.prakoso002@gmail.com
 
 ### Github Statistic
