@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Product Support Specialist
-- 📫 How to reach me: ionn.prakoso002@gmail.com
+- 📫 How to reach me: 
 
 ### Github Statistic
 <p align="left">
