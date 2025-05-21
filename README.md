@@ -10,8 +10,6 @@ I'm Product Support Specialist currently diving into the world of backend develo
 
 🚧 Learning never stops. Let’s code and grow together 🚀
 
-Let's build something cool together 🚀
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
