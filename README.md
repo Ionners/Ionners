@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+I'm Product Support Specialist currently diving into the world of backend development.
 
-- 🔭 I’m currently working as Product Support Specialist
-- 📫 How to reach me: 
+- 🌱 Currently learning backend development (Go, Docker)
+- 🧪 Daily work: SQL queries, API testing, bug/issue investigation
+- 🧰 Tools: Postman, SQL, Swagger, Go, Docker
+- 🔥 Excited to explore the world of backend development — especially building APIs with Go and running them in Docker
+- 💬 Still learning, but glad to share what I know
+
+🚧 Learning never stops. Let’s code and grow together 🚀
 
 ### Github Statistic
 <p align="left">
